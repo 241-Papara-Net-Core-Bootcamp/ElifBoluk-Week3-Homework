@@ -1,0 +1,15 @@
+C:\Users\Elif\source\repos\RepositoryPattern\RepositoryPattern.Domain\bin\Debug\net5.0\RepositoryPattern.Domain.deps.json
+C:\Users\Elif\source\repos\RepositoryPattern\RepositoryPattern.Domain\bin\Debug\net5.0\RepositoryPattern.Domain.runtimeconfig.json
+C:\Users\Elif\source\repos\RepositoryPattern\RepositoryPattern.Domain\bin\Debug\net5.0\RepositoryPattern.Domain.runtimeconfig.dev.json
+C:\Users\Elif\source\repos\RepositoryPattern\RepositoryPattern.Domain\bin\Debug\net5.0\RepositoryPattern.Domain.dll
+C:\Users\Elif\source\repos\RepositoryPattern\RepositoryPattern.Domain\bin\Debug\net5.0\RepositoryPattern.Domain.pdb
+C:\Users\Elif\source\repos\RepositoryPattern\RepositoryPattern.Domain\obj\Debug\net5.0\RepositoryPattern.Domain.csproj.AssemblyReference.cache
+C:\Users\Elif\source\repos\RepositoryPattern\RepositoryPattern.Domain\obj\Debug\net5.0\RepositoryPattern.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elif\source\repos\RepositoryPattern\RepositoryPattern.Domain\obj\Debug\net5.0\RepositoryPattern.Domain.AssemblyInfoInputs.cache
+C:\Users\Elif\source\repos\RepositoryPattern\RepositoryPattern.Domain\obj\Debug\net5.0\RepositoryPattern.Domain.AssemblyInfo.cs
+C:\Users\Elif\source\repos\RepositoryPattern\RepositoryPattern.Domain\obj\Debug\net5.0\RepositoryPattern.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Elif\source\repos\RepositoryPattern\RepositoryPattern.Domain\obj\Debug\net5.0\RepositoryPattern.Domain.dll
+C:\Users\Elif\source\repos\RepositoryPattern\RepositoryPattern.Domain\obj\Debug\net5.0\refint\RepositoryPattern.Domain.dll
+C:\Users\Elif\source\repos\RepositoryPattern\RepositoryPattern.Domain\obj\Debug\net5.0\RepositoryPattern.Domain.pdb
+C:\Users\Elif\source\repos\RepositoryPattern\RepositoryPattern.Domain\obj\Debug\net5.0\RepositoryPattern.Domain.genruntimeconfig.cache
+C:\Users\Elif\source\repos\RepositoryPattern\RepositoryPattern.Domain\obj\Debug\net5.0\ref\RepositoryPattern.Domain.dll
